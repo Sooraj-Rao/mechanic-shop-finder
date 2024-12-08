@@ -26,7 +26,6 @@ import Dummy from "./Pages/Dummy";
 import toast, { Toaster } from "react-hot-toast";
 import Terms from "./Components/Terms";
 
-
 const App = () => {
   const [logged, setlogged] = useState(false);
   const [istheme, setistheme] = useState(1)
